@@ -1,0 +1,14 @@
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.AssemblyInfoInputs.cache
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.AssemblyInfo.cs
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.csproj.CoreCompileInputs.cache
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/bin/Debug/net8.0/Progs_Ing
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/bin/Debug/net8.0/Progs_Ing.deps.json
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/bin/Debug/net8.0/Progs_Ing.runtimeconfig.json
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/bin/Debug/net8.0/Progs_Ing.dll
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/bin/Debug/net8.0/Progs_Ing.pdb
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.dll
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/refint/Progs_Ing.dll
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.pdb
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/Progs_Ing.genruntimeconfig.cache
+/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/Debug/net8.0/ref/Progs_Ing.dll
