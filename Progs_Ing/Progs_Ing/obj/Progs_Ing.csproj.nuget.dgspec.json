@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miguel/Documents/Progs_Ing/Progs_Ing/Progs_Ing.csproj": {}
+    "C:\\Users\\Miguel\\Documents\\Personal-projects\\Progs_Ing\\Progs_Ing\\Progs_Ing.csproj": {}
   },
   "projects": {
-    "/Users/miguel/Documents/Progs_Ing/Progs_Ing/Progs_Ing.csproj": {
+    "C:\\Users\\Miguel\\Documents\\Personal-projects\\Progs_Ing\\Progs_Ing\\Progs_Ing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miguel/Documents/Progs_Ing/Progs_Ing/Progs_Ing.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Personal-projects\\Progs_Ing\\Progs_Ing\\Progs_Ing.csproj",
         "projectName": "Progs_Ing",
-        "projectPath": "/Users/miguel/Documents/Progs_Ing/Progs_Ing/Progs_Ing.csproj",
-        "packagesPath": "/Users/miguel/.nuget/packages/",
-        "outputPath": "/Users/miguel/Documents/Progs_Ing/Progs_Ing/obj/",
+        "projectPath": "C:\\Users\\Miguel\\Documents\\Personal-projects\\Progs_Ing\\Progs_Ing\\Progs_Ing.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel\\Documents\\Personal-projects\\Progs_Ing\\Progs_Ing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/miguel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/miguel/.dotnet/sdk/8.0.418/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Miguel\\.dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
