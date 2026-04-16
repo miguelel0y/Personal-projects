@@ -1,5 +1,6 @@
 ﻿using ScottPLot;
 
+
 ScottPlot.Plot.myPLot =new();
 
 ///create sample data

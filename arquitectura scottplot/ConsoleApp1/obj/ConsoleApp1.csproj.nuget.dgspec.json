@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miguel/Documents/arquitectura scottplot/ConsoleApp1/ConsoleApp1.csproj": {}
+    "C:\\Users\\Miguel\\Documents\\Personal-projects\\arquitectura scottplot\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/miguel/Documents/arquitectura scottplot/ConsoleApp1/ConsoleApp1.csproj": {
+    "C:\\Users\\Miguel\\Documents\\Personal-projects\\arquitectura scottplot\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miguel/Documents/arquitectura scottplot/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Personal-projects\\arquitectura scottplot\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/miguel/Documents/arquitectura scottplot/ConsoleApp1/ConsoleApp1.csproj",
-        "packagesPath": "/Users/miguel/.nuget/packages/",
-        "outputPath": "/Users/miguel/Documents/arquitectura scottplot/ConsoleApp1/obj/",
+        "projectPath": "C:\\Users\\Miguel\\Documents\\Personal-projects\\arquitectura scottplot\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel\\Documents\\Personal-projects\\arquitectura scottplot\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/miguel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -36,13 +36,18 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "10.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[5.1.57, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Miguel\\.dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

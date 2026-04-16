@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Progs_Ing")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ArquitecturaScottplot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d980ec0ad6a264360ccbbe4669fefde61475091")]
-[assembly: System.Reflection.AssemblyProductAttribute("Progs_Ing")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Progs_Ing")]
+[assembly: System.Reflection.AssemblyProductAttribute("ArquitecturaScottplot")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ArquitecturaScottplot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
